@@ -1,4 +1,4 @@
-# Gatsby
+break # Gatsby
 
 This is a [Gatsby](https://www.gatsbyjs.com/) project bootstrapped with [`create-gatsby`](https://www.npmjs.com/package/create-gatsby).
 
@@ -10,5 +10,5 @@ This is a [Gatsby](https://www.gatsbyjs.com/) project bootstrapped with [`create
 
 - [CodeSandbox Projects — Docs](https://codesandbox.io/docs/projects)
 - [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
-- [Gatsby — GitHub](https://github.com/gatsbyjs/gatsby)
+- [
 - [Gatsby — Docs](https://www.gatsbyjs.com/docs/)
